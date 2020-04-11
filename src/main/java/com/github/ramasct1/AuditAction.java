@@ -1,3 +1,4 @@
+package com.github.ramasct1;
 /**
  * Enum for the different audit actions .
  */
