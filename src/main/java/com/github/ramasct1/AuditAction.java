@@ -6,7 +6,13 @@ public enum AuditAction {
 
     CREATE("CREATE"),
     UPDATE("UPDATE"),
-    DELETE("DELETE");
+    DELETE("DELETE"),
+    LOGIN("LOGIN"),
+    LOGOUT("LOGOUT"),
+    RESET_PASSWORD("RESETPASSWORD"),
+    FORGET_PASSWORD("FORGOTPASSWORD");
+
+
 
     private String value;
 

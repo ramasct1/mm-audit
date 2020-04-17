@@ -15,11 +15,17 @@ public class AuditLog {
 
     private Integer commitVersion;
 
-    private String eventType;
+    private String action;
 
-    private String collectionName;
+    private String entityName;
 
     private String entityId;
 
     private String tenantId;
+
+    private String locationId;
+
+    private String comments;
+
+    private Object meta;
 }
