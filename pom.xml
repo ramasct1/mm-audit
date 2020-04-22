@@ -6,10 +6,10 @@
 
     <groupId>com.github.ramasct1</groupId>
     <artifactId>mm-audit</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>MM Audit Shared library</name>
-    <description> Audit library for MM Services </description>
+    <description>Audit library for MM Services</description>
 
     <url>https://github.com/ramasct1/mm-audit</url>
 
